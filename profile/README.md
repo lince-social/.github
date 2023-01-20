@@ -1,6 +1,6 @@
 # Lince Docs
 
-# O que é a Lince
+# 💡 O que é a Lince
 
 A Lince é uma ferramenta digital para dois tipos de cadastro:
 
@@ -20,7 +20,7 @@ Como indivíduos, podemos entregar itens que possímos e não precisamos mais, b
 
 Já organizações, frequentemente partem do objetivo de entregar um produto ou serviço para pessoas, mas não possuem as devidas informações a respeito daqueles que querem ajudar. É possível postar na Lince os serviços e produtos que sua organização oferece, para que aqueles que os procuram possam encontrá-los com mais facilidade.
 
-# Impacto
+# 📈 Impacto
 
 Com esses dados, é possível receber informações sobre sua população, com um modelo de censo de necessidades em tempo real. Haverão interações entre indivíduos, doações para organizações para que elas distribuam recursos, e o oferecimento de produtos e serviços já existentes através de uma plataforma que facilita o processo. 
 
@@ -32,10 +32,13 @@ A partir dessa ferramenta, cria-se a possibilidade de planejar, por parte de emp
 
 Com um número significativo de usuários e seus inputs, empresas verão a necessidade de reduzir setores redundantes de previsão de demanda e relacionamento com o cliente.
 
-# Organização
+# 🏛 Organização
 
 A organização seguirá um modelo Sem Fins Lucrativos, recebendo doações ou subsídios de organizações que desejam financiar o projeto para uso próprio (ex: Linux Foundation e seus patrocinadores).
 
-# Infraestrutura Tecnológica
+# 💻 Infraestrutura Tecnológica
 Disponibilizando o codigo fonte de forma livre possibilitamos a melhoria e propriedade do software por qualquer pessoa com interesse.
 Considera-se a possibilidade de hostear um servidor para POC e realizar ciclos de doações entre conhecidos. Também estuda-se a viabilidade de rodar servidores com o protocolo ActivityPub para conectar instâncias da Lince com o Fediverso (pense em contas criadas em servidores que podem conectar-se com qualquer outra, parecido com o e-mail, não blockchain.
+
+# 👥 Comunidade
+Críticas e sugestões valem seu peso em ouro, sinta-se à vontade para criar um fork, iniciar um projeto novo ou contribuir para a Lince. Se quiser, pode entrar em contato através do email eduardo.xavier00@edu.pucrs.br.
