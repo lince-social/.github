@@ -22,7 +22,7 @@ Já organizações, frequentemente partem do objetivo de entregar um produto ou 
 
 # 📈 Impacto
 
-Com esses dados, é possível receber informações sobre sua população, com um modelo de censo de necessidades em tempo real. Haverão interações entre indivíduos, doações para organizações para que elas distribuam recursos, e o oferecimento de produtos e serviços já existentes através de uma plataforma que facilita o processo. 
+Com esses dados, é possível receber informações sobre sua população, com um modelo de censo de necessidades em tempo real. Haverão interações entre indivíduos, doações para organizações, para que elas distribuam recursos, e o oferecimento de produtos e serviços já existentes através de uma plataforma que facilita o processo. A Lince é uma ferramenta para a criação e troca de informações, o poder de mudanças no mundo real com frete e entrega de qualquer produto ou serviço permanecerá na mão de pessoas.
 
 O fluxo de necessidades e entregas gera uma economia de doações, alimentando uma rede de suporte para todos. Organizações Sem Fins Lucrativos, ONGs, Governos e comunidades são fontes de apoio social, de produtos e serviços e todas elas possuem custos. Com a Lince, indivíduos poderão aliviar esse peso, permitindo um investimento em outras ações pelas organizações.
 
@@ -38,7 +38,7 @@ A organização seguirá um modelo Sem Fins Lucrativos, recebendo doações ou s
 
 # 💻 Infraestrutura Tecnológica
 Disponibilizando o codigo fonte de forma livre possibilitamos a melhoria e propriedade do software por qualquer pessoa com interesse.
-Considera-se a possibilidade de hostear um servidor para POC e realizar ciclos de doações entre conhecidos. Também estuda-se a viabilidade de rodar servidores com o protocolo ActivityPub para conectar instâncias da Lince com o Fediverso (pense em contas criadas em servidores que podem conectar-se com qualquer outra, parecido com o e-mail, não blockchain.
+Considera-se a possibilidade de hostear um servidor para POC e realizar ciclos de doações entre conhecidos. Também estuda-se a viabilidade de rodar servidores com o protocolo ActivityPub para conectar instâncias da Lince com o Fediverso (pense em contas criadas em servidores que podem conectar-se com qualquer outra, parecido com o e-mail, não blockchain).
 
 # 👥 Comunidade
-Críticas e sugestões valem seu peso em ouro, sinta-se à vontade para criar um fork, iniciar um projeto novo ou contribuir para a Lince. Se quiser, pode entrar em contato através do email eduardo.xavier00@edu.pucrs.br.
+Críticas e sugestões valem seu peso em ouro, sinta-se à vontade para criar um fork, iniciar um projeto novo ou contribuir para a Lince. Se quiser, podes entrar em contato através do email eduardo.xavier00@edu.pucrs.br.
