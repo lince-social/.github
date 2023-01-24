@@ -62,7 +62,7 @@ As pessoas têm necessidades diferentes, cada uma terá de registar itens e serv
 - Luz, Água, Saneamento...
 - Serviços de Jardinagem, Apoio Técnico numa determinada área, Transporte...
 
-O objectivo do registo é diminuir necessidades não atendidas por não haver informação de suficiente e de qualidade sobre as mesmas. Cada registo será um voto a favor do investimento em uma solução. Esta informação pode ser compartilhada publicamente, a ONGs, governos, empresas e indivíduos, ou privada e encriptada (E2E), a familiares e conhecidos.
+O objetivo do registo é diminuir necessidades não atendidas por não haver informação de suficiente e de qualidade sobre as mesmas. Cada registo será um voto a favor do investimento em uma solução. Esta informação pode ser compartilhada publicamente, a ONGs, governos, empresas e indivíduos, ou privada e encriptada (E2E), a familiares e conhecidos.
 
 ### 2 . **O que se pode entregar.**
 
