@@ -1,4 +1,4 @@
-# Para a versão em Português 🇧🇷 [clique aqui.](#readme-em-português)
+# Para a versão em Português 🇧🇷 [clique aqui.](#readme-em-português) Ou siga para baixo.
 
 # 💡 What is Lince
 
