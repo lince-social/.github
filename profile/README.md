@@ -6,11 +6,11 @@ A Lince é uma ferramenta para dois tipos de cadastro: o que se precisa e o que 
 
 Pessoas possuem necessidades diferentes, seja para viver ou trabalhar, podendo ser:
 
-Básicas e pessoais como: água, luz, saneamento, saúde, educação, habitação, alimentação, roupas, etc.
+Básicas e pessoais, como: água, luz, saneamento, saúde, educação, habitação, alimentação, roupas, etc.
 
-Serviços como: transporte, apoio técnico, enfermagem, jardinagem, cultura, entretenimento, turismo, etc.
+Serviços, como: transporte, apoio técnico, enfermagem, jardinagem, cultura, entretenimento, turismo, etc.
 
-Outros bens de consumo como: eletrodomésticos, ferramentas de trabalho, máquinas e matéria prima, etc.
+Outros bens de consumo, como: eletrodomésticos, ferramentas de trabalho, máquinas e matéria prima, etc.
 
 ### 2. O que se pode contribuir:
 
@@ -18,16 +18,18 @@ Indivíduos, coletivos e organizações podem oferecer seus produtos, serviços,
 
 # Tecnologia
 
-O projeto é de software livre, possibilitando a implementação e melhoria por qualquer pessoa com interesse. O objetivo é estar nas plataformas que as pessoas usam, tendo um site e aplicativo para a maioria dos dispositivos. Porém, nem todos possuem acesso à tecnologia ou até luz elétrica, com isso, outras vias de cadastro na Lince se mostram necessárias. O intuito é poder cadastrar-se através de terceiros ao obter qualquer apoio social.
+O projeto é uma iniciativa de software livre, o que permite que qualquer pessoa interessada possa contribuir para sua implementação e melhoria contínua. O objetivo é estar nas plataformas que as pessoas usam, tendo um site e aplicativo para a maioria dos dispositivos. No entanto, a plataforma não se limita apenas a usuários com acesso à tecnologia. A Lince também permitirá que os usuários se cadastrem por meio de terceiros ao obter qualquer apoio social.
 
-É essencial poder rodar a Lince de forma local ou em qualquer tipo de rede. Também é importante a possibilidade de divulgar necessidades, ajudas e doações de forma anônima ou identificada, para todos ou apenas para quem você desejar.
+A plataforma será executada localmente ou em qualquer tipo de rede. Além disso, a Lince permitirá que os usuários divulguem suas necessidades, ajudas e doações de forma anônima ou identificada, para todos ou apenas para aqueles que desejarem.
 
 # Estrutura
 
-A Lince não possui fins lucrativos. A organização pode receber doações e subsídios de organizações que desejam a manutenção e implementação do projeto para seu grupo ou público.
+A Lince é uma iniciativa sem fins lucrativos. A organização poderá receber doações e subsídios de organizações que desejam apoiar a manutenção e implementação do projeto para seu grupo ou público.
 
-# Potencial
+# Impacto
 
-A Lince transforma necessidades e entregas em dados, facilita-se a conexão entre pessoas e recursos. Manifestando-as, é possível visualizar com precisão o que devemos produzir e para quem distribuir, diminuindo a falta de entregas ou super-produção. Ao digitalizar informações sobre recursos, é possível utilizar algorítimos de otimização e aprendizado de máquina para planejar de forma mais efetiva nossas contribuições.
+A Lince transforma necessidades e entregas em dados, facilitando a conexão entre pessoas e recursos. Ao digitalizar tais informações, é possível utilizar algorítimos de otimização e aprendizado de máquina para planejar de forma mais efetiva nossas contribuições. Algorítimos possuem vieses humanos, por isso quando aplicados, devem estar sujeitos à transparência, consentimento e democracia.
 
-Com uma pessoa, o sistema permite apenas uma organização pessoal, pois somente haverá um agente na Lince capaz de lhe auxiliar, você. À medida que mais usuários cadastram o que precisam, o que possuem que não necessitam mais e o que podem contribuir, uma rede de apoio é criada. Desde achar trabalho e ofertar seus produtos a doar itens não necessários a você para quem precisa.
+A troca de informações sobre necessidades em tempo real tem o potencial de diminuir o "efeito chicote" de redes de suprimentos. Com um número significativo de indivíduos cadastrados, previsões de demanda podem se tornar desnecessárias. Pessoas e organizações que já buscam trabalho comunitário poderão mais facilmente entrar em contato com quem desejam impactar.
+
+Uma pessoa utilizando o sistema gera apenas uma tabela para organização pessoal. Aumentar o número de pessoas, cria uma rede de apoio. Por aplicativo ou site consegue-se ofertar trabalho, produtos, serviços, itens que não se precisa mais ou qualquer necessidade que se tenha. Utilizamos recursos que já existem, deixamos de produzir lixo, recebemos ajuda de outros, contribuímos com um preço e quando possível, 'sem custo'.
