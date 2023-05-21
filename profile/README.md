@@ -8,9 +8,9 @@ Temos necessidades diferentes, podendo ser:
 ### 2. O que se pode contribuir:
 Indivíduos, coletivos e organizações podem oferecer seus produtos, serviços, assistência social, trabalho comunitário, presença, itens para doação, etc.
 # Estrutura
-A Lince é uma iniciativa sem fins lucrativos. Pode receber doações e subsídios para para financiar profissionais dedicados em tempo integral, visando a manutenção e desenvolvimento da plataforma digital.
+A Lince é uma iniciativa sem fins lucrativos. Pode receber doações e subsídios para financiar profissionais dedicados em tempo integral, visando a manutenção e desenvolvimento da plataforma digital.
 # Lince Atual
-Atualmente, a Lince está em fase de desenvolvimento do seu protótipo (MVP) e focará nas funcionalidades básicas. O protótipo permitirá o cadastro por digitação, terá listas de necessidades e contribuições, e funcionará a partir da primeira conexão entre uma necessidade de um usuário com uma contribuição de outro.
+Atualmente, a Lince está em fase de desenvolvimento do seu protótipo (MVP) e foca nas funcionalidades básicas. O protótipo permitirá o cadastro por digitação, terá listas de necessidades e contribuições, e funcionará a partir da primeira conexão entre uma necessidade de um usuário com uma contribuição de outro.
 # Tecnologia
 A Lince estará disponível como um site ou aplicativo, sendo acessível em qualquer rede. Os usuários poderão participar de diversos círculos da Lince: mundiais, nacionais, empresariais, municipais, familiares, entre outros. Além disso, a plataforma permitirá que os usuários divulguem suas necessidades, ajudas e doações de forma anônima ou identificada, para todos ou apenas para aqueles que desejarem.
 
