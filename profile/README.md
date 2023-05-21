@@ -11,7 +11,7 @@ Indivíduos, coletivos e organizações podem oferecer seus produtos, serviços,
 A Lince é uma iniciativa sem fins lucrativos. Pode receber doações e subsídios para para financiar profissionais dedicados em tempo integral, visando a manutenção e desenvolvimento da plataforma digital.
 # Lince Atual
 Atualmente, a Lince está em fase de desenvolvimento do seu protótipo (MVP) e focará nas funcionalidades básicas. O protótipo permitirá o cadastro por digitação, terá listas de necessidades e contribuições, e funcionará a partir da primeira conexão entre uma necessidade de um usuário com uma contribuição de outro.
-# Tecnologia e Impacto
+# Tecnologia
 A Lince estará disponível como um site ou aplicativo, sendo acessível em qualquer rede. Os usuários poderão participar de diversos círculos da Lince: mundiais, nacionais, empresariais, municipais, familiares, entre outros. Além disso, a plataforma permitirá que os usuários divulguem suas necessidades, ajudas e doações de forma anônima ou identificada, para todos ou apenas para aqueles que desejarem.
 
 O projeto é uma iniciativa de software livre, permitindo que qualquer pessoa interessada possa contribuir para sua implementação e melhoria contínua. O cadastro poderá ser feito por digitação, voz, foto ou vídeo, tornando-o acessível e fácil de usar. Para aqueles sem acesso à tecnologia, será possível adicionar suas necessidades e capacidades na Lince por meio de instituições credenciadas, como o SUS (Sistema Único de Saúde).
@@ -21,7 +21,7 @@ A plataforma busca unificar as interações econômicas e as trocas de recursos 
 É importante destacar que a Lince é responsável por facilitar a conexão entre pessoas e recursos, transformando necessidades e contribuições em dados. Os custos relacionados à interação, como transporte, produção e serviços em si, continuam sendo responsabilidade das partes envolvidas.
 
 Ao digitalizar as informações, a Lince possibilita o uso de algoritmos de otimização e aprendizado de máquina para um planejamento mais efetivo das contribuições. No entanto, é necessário considerar os vieses humanos presentes nos algoritmos e garantir transparência, consentimento e democracia ao implementar qualquer inteligência artificial tomadora de decisão. A distribuição dos recursos deve ser avaliada cuidadosamente, levando em consideração critérios como proximidade, necessidade absoluta ou potencial de mudança social ao recebê-los.
-
+# Impacto
 Com a flexibilidade de permitir qualquer tipo de cadastro, a Lince abre um leque de possibilidades. Desde o fornecimento de apoio após desastres naturais até o planejamento de eventos e festas. Idas ao supermercado são facilitadas com Linces de famílias sendo preenchidos por todos. Sinalizações de manutenção de infraestruturas públicas serão como votos para a solução de tais carências. Queremos minimizar necessidades não atendidas, alinhar demandas e distribuições, e entender em que devemos trabalhar.
 
 A utilização da Lince gera uma tabela para coordenação pessoal, e com o aumento do número de usuários, uma rede de apoio é formada. Utilizamos recursos existentes, evitamos desperdícios, recebemos ajuda de outros, contribuímos por um preço e quando possível, gratuitamente.
