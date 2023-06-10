@@ -1,4 +1,4 @@
-# O que é a Lince?
+# O que é a <a href='lince.social'>Lince</a>?
 A Lince é uma ferramenta para dois tipos de cadastro: o que se precisa e o que se pode contribuir.
 ### 1. O que se precisa:
 Temos necessidades diferentes, podendo ser:
@@ -9,8 +9,6 @@ Temos necessidades diferentes, podendo ser:
 Indivíduos, coletivos e organizações podem oferecer seus produtos, serviços, assistência social, trabalho comunitário, presença, itens para doação, etc.
 # Estrutura
 A Lince é uma iniciativa sem fins lucrativos. Pode receber doações e subsídios para financiar profissionais dedicados em tempo integral, visando a manutenção e desenvolvimento da plataforma digital.
-# Lince Atual
-Atualmente, a Lince está em fase de desenvolvimento do seu protótipo (MVP) e foca nas funcionalidades básicas. O protótipo permitirá o cadastro por digitação, terá listas de necessidades e contribuições, e funcionará a partir da primeira conexão entre uma necessidade de um usuário com uma contribuição de outro.
 # Tecnologia
 A Lince estará disponível como um site ou aplicativo, sendo acessível em qualquer rede. Os usuários poderão participar de diversos círculos da Lince: mundiais, nacionais, empresariais, municipais, familiares, entre outros. Além disso, a plataforma permitirá que os usuários divulguem suas necessidades, ajudas e doações de forma anônima ou identificada, para todos ou apenas para aqueles que desejarem.
 
@@ -28,3 +26,9 @@ A utilização da Lince gera uma tabela para coordenação pessoal, e com o aume
 A troca de informações sobre necessidades em tempo real tem o potencial de diminuir o "efeito chicote" nas redes de suprimentos. Esse efeito ocorre quando uma compra esperada não acontece, acumulando perdas e gerando ineficiências. Com um número significativo de usuários cadastrados, as previsões de demanda podem se tornar desnecessárias; juntamente de uma diminuição de superprodução e falta de atendimento por informações de mercado incompletas.
 
 A criação de uma plataforma para ofertar quaisquer produtos e serviços removerá barreiras para pequenos empreendedores e autônomos. Trabalho de qualquer tipo pode ser ofertado. Uma empresa pode criar necessidades de tarefas a serem cumpridas e funcionários de insumos e ferramentas a serem comprados. Fluxos de atividades no trabalho podem ser acompanhados pela Lince. Além disso, pessoas e organizações que buscam trabalho comunitário poderão entrar em contato facilmente com aqueles que desejam impactar.
+# Lince Atual
+Atualmente, a Lince está em fase de desenvolvimento do seu protótipo (PoC) e foca nas funcionalidades básicas. O protótipo permitirá o cadastro por digitação, terá listas de necessidades e contribuições, e funcionará a partir da primeira conexão entre uma necessidade de um usuário com uma contribuição de outro.
+
+E-mail para contato: eduardo@lince.social
+
+Website: <a href='linc.social'>lince.social</a>
