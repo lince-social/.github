@@ -1,4 +1,4 @@
-# O que é a <a href='lince.social'>Lince</a>?
+# O que é a <a href='https://www.lince.social'>Lince</a>?
 A Lince é uma ferramenta para dois tipos de cadastro: o que se precisa e o que se pode contribuir.
 ### 1. O que se precisa:
 Temos necessidades diferentes, podendo ser:
@@ -31,4 +31,4 @@ Atualmente, a Lince está em fase de desenvolvimento do seu protótipo (PoC) e f
 
 E-mail para contato: eduardo@lince.social
 
-Website: <a href='linc.social'>lince.social</a>
+Website: <a href='https://www.lince.social'>lince.social</a>
