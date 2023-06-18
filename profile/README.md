@@ -1,5 +1,5 @@
 # O que é a <a href='https://www.lince.social'>Lince</a>?
-A Lince é serviço para cadastro de necessidades e contribuições de escopo aberto:
+A Lince é um serviço para cadastro de necessidades e contribuições de escopo aberto:
 ### 1. O que se precisa:
 Temos necessidades diferentes, podendo ser:
 * Básicas e pessoais, como: água, luz, saneamento, saúde, educação, habitação, alimentação, roupas, natureza, etc.
