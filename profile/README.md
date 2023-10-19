@@ -49,6 +49,6 @@ E-mail para contato: <a href="mailto:eduardo.xavier00@edu.pucrs.br">eduardo.xavi
 
 Website: <a href='https://www.lince.social'>lince.social</a>
 
-### <a href="https://github.com/lince-ai/front/blob/main/photos/Lince%20Wireframe%20website%20desktop%20v0.0.1.png">Wireframe</a>:
+### <a href="https://github.com/lince-social/lince/blob/main/fotos/Lince%20Wireframe%20website%20desktop%20v0.0.1.png">Wireframe</a>:
 
-<img src="https://github.com/lince-ai/front/blob/main/fotos/Lince%20Wireframe%20website%20desktop%20v0.0.1.png">
+<img src="https://github.com/lince-social/lince/blob/main/fotos/Lince%20Wireframe%20website%20desktop%20v0.0.1.png">
