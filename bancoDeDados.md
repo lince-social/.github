@@ -34,7 +34,11 @@ Tabela mensagem:
 - idChat | CE
 
 
-Fiz uma normalização do banco de dados que eu acho que funcionaria pra primeira versão da lince, só com criação de contas, cadastro de necessidades e contribuições, chat pra conversar e realizar a interação lince e com frontend a gente bota um botão que quando as duas contas envolvidas clicam nele, o status da contribuição e necessidade é atualizado, ou só a quantidade. Exemplo: preciso de 10 maçãs, alguem doou 4, nós dois apertamos o botão, o status da contribuição fica como inexistente, pq a maçã foi doada, e o status da necessidade fica ainda como existente, mas agora da quantidade da necessidade como 6
+Fiz uma normalização do banco de dados que eu acho que funcionaria pra primeira versão da lince, só com criação de contas, cadastro de necessidades e contribuições, chat pra conversar e realizar a interação lince e com frontend a gente bota um botão que quando as duas contas envolvidas clicam nele, o status da contribuição e necessidade é atualizado, ou só a quantidade. Exemplo: preciso de 10 maçãs, alguem doou 4, nós dois apertamos o botão, o status da contribuição fica como inexistente, pq a maçã foi doada, e o status da necessidade fica ainda como existente, mas agora da quantidade da necessidade como 6.
+
+---
+
+Informações sobre versões futuras da Lince, n precisa desenvolver pra ter essas features fazer agora, deixo aqui só pra dar mais contexto:
 
 Para fazer um banco de dados da lince é preciso ter a criação de uma conta com poderes administrativos, e uma de usuários, com nome de usuário e senha, podendo criar diferentes perfis para uma conta de usuário. Acho. Dependendo do protocolo utilizado pra troca de informações entre círculos lince/servidores lince e formas de ter contas com usuários e perfis várias formas de modelar o banco de dados vão existir, essa é a versão que eu acho que funcionaria.
 
