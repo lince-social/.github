@@ -5,6 +5,11 @@ Tabela conta:
 - nomeUsuário
 - senha
 
+Tabela perfil:
+- id | CP
+- nome_perfil
+
+
 Tabela cadastro:
 - id | CP
 - título
