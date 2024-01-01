@@ -44,10 +44,7 @@ A criação de uma plataforma para ofertar quaisquer produtos e serviços remove
 
 Atualmente, a Lince está em fase de desenvolvimento do seu protótipo de site dinâmico e hosting, foca-se nas funcionalidades básicas. O protótipo permitirá o cadastro por digitação, terá listas de necessidades e contribuições, e funcionará a partir da primeira conexão entre uma necessidade de um usuário com uma contribuição de outro.
 
-E-mail para contato: <a href="mailto:eduardo.xavier00@edu.pucrs.br">eduardo.xavier00@edu.pucrs.br</a>
-
-
-Website: <a href='https://www.lince.social'>lince.social</a>
+E-mail para contato: <a href="xaviduds@gmail.com">xaviduds@gmail.com</a>
 
 ### <a href="https://github.com/lince-social/lince/blob/main/fotos/Lince%20Wireframe%20website%20desktop%20v0.0.1.png">Wireframe</a>:
 
