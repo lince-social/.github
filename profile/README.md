@@ -1,24 +1,38 @@
-# O que é a <a href='https://www.lince.social'>Lince</a>?
+# Documentação Lince:
+[Lista de Conteúdos:](#documentação-lince)
+- [O que é a Lince?](#o-que-é-a-lince)
+- [Estrutura](#estrutura)
+- [Tecnologia](#tecnologia)
+- [Impacto](#impacto)
+- [Lince Atual](#lince-atual)
+
+## O que é a Lince?
 
 A Lince é um serviço para cadastro de necessidades e contribuições de escopo aberto:
 
-### 1. O que se precisa:
+### Necessidades (Ns):
 
 Temos necessidades diferentes, podendo ser:
 
-- Básicas e pessoais, como: água, luz, saneamento, saúde, educação, habitação, alimentação, roupas, natureza, etc.
+- Básicas e pessoais, como: água, luz, saneamento, saúde, educação, habitação, alimentação, roupas, hábitos, natureza, comunidade, etc.
 - Serviços, como: transporte, apoio técnico, enfermagem, jardinagem, cultura, entretenimento, turismo, etc.
-- Outros bens de consumo, como: eletrodomésticos, ferramentas de trabalho, máquinas e matéria prima, etc.
+- Outros bens de consumo, como: eletrodomésticos, ferramentas de trabalho, internet, computação, máquinas e matéria prima, etc.
 
-### 2. O que se pode contribuir:
+### Contribuições (Cs):
 
-Indivíduos, coletivos e organizações podem oferecer seus produtos, serviços, assistência social, trabalho comunitário, presença, itens para doação, etc.
+Assim como diversas formas de saciar tais necessidades, de forma individual ou através de organizações, contribuindo com:
 
-# Estrutura
+ - Produtos.
+ - Serviços, dentre eles: aulas, atendimento técnico, instalações, consultoria, etc.
+ - Assistência social, trabalho comunitário, itens para doação, etc.
+ - Informação, infraestrutura, financiamento, presença, etc.
+ - Trabalho em geral.
 
-A Lince é uma iniciativa sem fins lucrativos. Utiliza-se de financiamento popular, atualmente o Patreon, para desenvolver a tecnologia base, segurança de dados e um servidor próprio.
+## Estrutura
 
-# Tecnologia
+A Lince é uma iniciativa sem fins lucrativos. Utiliza-se de financiamento popular, atualmente o [apoia.se/lince](https://www.apoia.se/lince), para desenvolver a tecnologia base, segurança de dados e um servidor próprio.
+
+## Tecnologia
 
 A Lince estará disponível como um site ou aplicativo, sendo acessível em qualquer rede. Os usuários poderão participar de diversos círculos da Lince: mundiais, nacionais, empresariais, municipais, familiares, entre outros. Além disso, a plataforma permitirá que os usuários divulguem suas necessidades, ajudas e doações de forma anônima ou identificada, para todos ou apenas para aqueles que desejarem.
 
@@ -30,7 +44,7 @@ A plataforma busca unificar as interações econômicas e as trocas de recursos 
 
 Ao digitalizar as informações, a Lince possibilita o uso de algoritmos de otimização e aprendizado de máquina para um planejamento mais efetivo das contribuições. No entanto, é necessário considerar os vieses humanos presentes nos algoritmos e garantir transparência, consentimento e democracia ao implementar qualquer inteligência artificial tomadora de decisão. A distribuição dos recursos deve ser avaliada cuidadosamente, levando em consideração critérios como proximidade, necessidade absoluta ou potencial de mudança social ao recebê-los.
 
-# Impacto
+## Impacto
 
 A Lince permite a criação de uma tabela para coordenar Necessidades Internas (NIs). Com o aumento do número de pessoas uma rede de apoio é formada através de Contribuições Externas (CEs). Também possibilitando Contribuições Internas (CIs) para atender às Necessidades Externas (NEs).
 
@@ -40,12 +54,14 @@ A troca de informações sobre necessidades em tempo real tem o potencial de dim
 
 A criação de uma plataforma para ofertar quaisquer produtos e serviços removerá barreiras para pequenos empreendedores e autônomos. Trabalho de qualquer tipo pode ser ofertado. Uma empresa pode criar NIs de tarefas a serem cumpridas e funcionários de insumos e ferramentas a serem comprados. Fluxos de atividades no trabalho podem ser acompanhados pela Lince. Além disso, pessoas e organizações que buscam trabalho comunitário poderão entrar em contato facilmente com aqueles que desejam impactar. Utilizamos recursos existentes, evitamos desperdícios, recebemos ajuda de outros, contribuímos por um preço e quando possível, gratuitamente.
 
-# Lince Atual
+## Lince Atual
 
 Atualmente, a Lince está em fase de desenvolvimento do seu protótipo de site dinâmico e hosting, foca-se nas funcionalidades básicas. O protótipo permitirá o cadastro por digitação, terá listas de necessidades e contribuições, e funcionará a partir da primeira conexão entre uma necessidade de um usuário com uma contribuição de outro.
 
-E-mail para contato: <a href="xaviduds@gmail.com">xaviduds@gmail.com</a>
+E-mail para contato: [xaviduds@gmail.com](mailto:xaviduds@gmail.com)
 
-### <a href="https://github.com/lince-social/lince/blob/main/fotos/Lince%20Wireframe%20website%20desktop%20v0.0.1.png">Wireframe</a>:
+### [Wireframe](https://github.com/lince-social/lince/blob/main/fotos/Lince%20Wireframe%20website%20desktop%20v0.0.1.png):
 
-<img src="https://github.com/lince-social/lince/blob/main/fotos/Lince%20Wireframe%20website%20desktop%20v0.0.1.png">
+![Wireframe](https://github.com/lince-social/lince/blob/main/fotos/Lince%20Wireframe%20website%20desktop%20v0.0.1.png)
+
+[Lista de Conteúdos](#documentação-lince)
