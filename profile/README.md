@@ -1,16 +1,19 @@
 # Documentação:
 
-[Lista de Conteúdos:](#documentação)
+Você pode acessar a base de código no <a href="https://github.com/lince-social/lince">GitHub</a>, sinta-se à vontade para contribuir.
 
 - [O que é a Lince?](#o-que-é-a-lince)
 - [Estrutura](#estrutura)
 - [Lince Atual](#lince-atual)
 - [Potencial Impacto](#potencial-impacto)
-- [Documentação Tecnológica](#documentação-tecnológica)
+- [Documentação Tecnológica](#documentação-tecnológica) 
+  - [Banco de Dados](#banco-de-dados)
+  - [Backend](#backend)
+  - [Frontend](#frontend)
 
 ## [O que é a Lince?](#documentação)
 
-A Lince é uma ferramenta para cadastro e conexão de necessidades e contribuições de escopo livre.
+A Lince é uma ferramenta para cadastro e conexão entre necessidades e contribuições de escopo livre.
 
 ## [Necessidades (Cs)](#documentação):
 
@@ -41,7 +44,7 @@ E-mail para contato: [xaviduds@gmail.com](mailto:xaviduds@gmail.com).
 Atualmente, a Lince está em fase de desenvolvimento do seu protótipo, focando no cadastro por digitação, terá listas de necessidades e contribuições. Tal protótipo funcionará a partir da primeira conexão entre uma necessidade de um usuário com uma contribuição de outro.
 
 ## [Potencial Impacto](#documentação):
-
+pessoas podem colocar suas ideias de desenvolvimento (backlog) como CIs e empresas clientes selecionarem quais vão ser desenvolvidas na sprint tal
 A Lince permite a criação de uma tabela para coordenar Necessidades Internas (NIs). Com o aumento do número de pessoas uma rede de apoio é formada através de Contribuições Externas (CEs). Também possibilitando Contribuições Internas (CIs) para atender às Necessidades Externas (NEs).
 
 Com a flexibilidade de permitir qualquer tipo de cadastro, a Lince abre um leque de possibilidades. Desde o fornecimento de apoio após desastres naturais até o planejamento de eventos. Idas ao supermercado são facilitadas com Linces de famílias sendo preenchidos por todos. Sinalizações de manutenção de infraestruturas públicas serão como votos para a solução de tais carências. É possível criar recorrências de NIs para mapear seus hábitos, deixando-os visíveis é possível delegar parte deles a outras pessoas através de CEs. Queremos minimizar necessidades não atendidas, alinhar demandas e distribuições, e entender em que devemos trabalhar.
@@ -64,13 +67,9 @@ Ao digitalizar as informações, a Lince possibilita o uso de algoritmos de otim
 
 ![Wireframe](https://github.com/lince-social/.github/blob/main/fotos/Lince%20Wireframe%20website%20desktop%20v0.0.1.png)
 
-## [Documentação Tecnológica](#documentação):
+# [Documentação Tecnológica](#documentação):
 
-Você pode acessar a base de código no <a href="https://github.com/lince-social/lince">GitHub</a>, sinta-se a vontade para contribuir.
-
-- [Banco de Dados](#banco-de-dados)
-- [Backend](#backend)
-- [Frontend](#frontend)
+Você pode acessar a base de código no <a href="https://github.com/lince-social/lince">GitHub</a>, sinta-se à vontade para contribuir.
 
 ## [Banco de Dados](#documentação-tecnológica):
 
