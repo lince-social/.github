@@ -71,15 +71,15 @@ Ao digitalizar as informações, a Lince possibilita o uso de algoritmos de otim
 
 Você pode acessar a base de código no <a href="https://github.com/lince-social/lince">GitHub</a>, sinta-se à vontade para contribuir.
 
-## [Banco de Dados](#documentação-tecnológica):
+## [Banco de Dados](#documentação):
 
 O banco de dados está sendo desenvolvido em PostgreSQL.
 
-## [Backend](#documentação-tecnológica):
+## [Backend](#documentação):
 
 A desenvolver.
 
-## [Frontend](#documentação-tecnológica):
+## [Frontend](#documentação):
 
 A desenvolver.
 
