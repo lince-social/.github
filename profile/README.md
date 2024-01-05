@@ -10,9 +10,9 @@
 
 ## [O que é a Lince?](#documentação)
 
-A Lince é uma ferramenta para cadastro de necessidades e contribuições de escopo livre.
+A Lince é uma ferramenta para cadastro e conexão de necessidades e contribuições de escopo livre.
 
-## [Necessidades (Cs):](#documentação)
+## [Necessidades (Cs)](#documentação):
 
 Temos necessidades diferentes, podendo ser:
 
@@ -20,7 +20,7 @@ Temos necessidades diferentes, podendo ser:
 - Serviços, como: transporte, apoio técnico, enfermagem, jardinagem, cultura, entretenimento, turismo, etc.
 - Outros bens de consumo, como: eletrodomésticos, ferramentas de trabalho, internet, computação, máquinas e matéria prima, etc.
 
-## [Contribuições (Cs):](#documentação)
+## [Contribuições (Cs)](#documentação):
 
 Assim como diversas formas de saciar tais necessidades, de forma individual ou através de organizações, contribuindo com:
 
@@ -30,17 +30,17 @@ Assim como diversas formas de saciar tais necessidades, de forma individual ou a
  - Informação, infraestrutura, financiamento, presença, etc.
  - Trabalho em geral.
 
-## [Estrutura:](#documentação)
+## [Estrutura](#documentação):
 
 A Lince é uma iniciativa sem fins lucrativos. Utiliza-se de financiamento popular, atualmente o [apoia.se/lince](https://www.apoia.se/lince), para desenvolver a tecnologia base, segurança de dados e um servidor próprio.
 
 E-mail para contato: [xaviduds@gmail.com](mailto:xaviduds@gmail.com).
 
-## [Lince Atual:](#documentação)
+## [Lince Atual](#documentação):
 
 Atualmente, a Lince está em fase de desenvolvimento do seu protótipo, focando no cadastro por digitação, terá listas de necessidades e contribuições. Tal protótipo funcionará a partir da primeira conexão entre uma necessidade de um usuário com uma contribuição de outro.
 
-## [Potencial Impacto:](#documentação)
+## [Potencial Impacto](#documentação):
 
 A Lince permite a criação de uma tabela para coordenar Necessidades Internas (NIs). Com o aumento do número de pessoas uma rede de apoio é formada através de Contribuições Externas (CEs). Também possibilitando Contribuições Internas (CIs) para atender às Necessidades Externas (NEs).
 
@@ -60,11 +60,11 @@ A plataforma busca unificar as interações econômicas e as trocas de recursos 
 
 Ao digitalizar as informações, a Lince possibilita o uso de algoritmos de otimização e aprendizado de máquina para um planejamento mais efetivo das contribuições. No entanto, é necessário considerar os vieses humanos presentes nos algoritmos e garantir transparência, consentimento e democracia ao implementar qualquer inteligência artificial tomadora de decisão. A distribuição dos recursos deve ser avaliada cuidadosamente, levando em consideração critérios como proximidade, necessidade absoluta ou potencial de mudança social ao recebê-los.
 
-## [Wireframe](https://github.com/lince-social/lince/blob/main/fotos/Lince%20Wireframe%20website%20desktop%20v0.0.1.png):
+## [Wireframe](#documentação):
 
-![Wireframe](https://github.com/lince-social/lince/blob/main/fotos/Lince%20Wireframe%20website%20desktop%20v0.0.1.png)
+![Wireframe](https://github.com/lince-social/.github/blob/main/fotos/Lince%20Wireframe%20website%20desktop%20v0.0.1.png)
 
-## [Documentação Tecnológica:](#documentação)
+## [Documentação Tecnológica](#documentação):
 
 Você pode acessar a base de código no <a href="https://github.com/lince-social/lince">GitHub</a>, sinta-se a vontade para contribuir.
 
@@ -72,15 +72,15 @@ Você pode acessar a base de código no <a href="https://github.com/lince-social
 - [Backend](#backend)
 - [Frontend](#frontend)
 
-## [Banco de Dados](#documentação-tecnológica)
+## [Banco de Dados](#documentação-tecnológica):
 
 O banco de dados está sendo desenvolvido em PostgreSQL.
 
-## [Backend:](#documentação-tecnológica)
+## [Backend](#documentação-tecnológica):
 
 A desenvolver.
 
-## [Frontend:](#documentação-tecnológica)
+## [Frontend](#documentação-tecnológica):
 
 A desenvolver.
 
