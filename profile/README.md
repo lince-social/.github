@@ -10,6 +10,7 @@ Você pode acessar a base de código no <a href="https://github.com/lince-social
   - [Banco de Dados](#banco-de-dados)
   - [Backend](#backend)
   - [Frontend](#frontend)
+  - [Conectividade](#conectividade)
 
 ## [O que é a Lince?](#documentação)
 
@@ -35,7 +36,7 @@ Assim como diversas formas de saciar tais necessidades, de forma individual ou a
 
 ## [Estrutura](#documentação):
 
-A Lince é uma iniciativa sem fins lucrativos. Utiliza-se de financiamento popular, atualmente o [apoia.se/lince](https://www.apoia.se/lince), para desenvolver a tecnologia base, segurança de dados e um servidor próprio.
+A Lince é uma iniciativa sem fins lucrativos. Utiliza-se de financiamento popular, atualmente o [apoia.se/lince](https://www.apoia.se/lince), [GitHub Sponsors](https://github.com/sponsors/lince-social) e o [Patreon](https://www.patreon.com/lince_social), para desenvolver a tecnologia base, segurança de dados e um servidor próprio.
 
 E-mail para contato: [xaviduds@gmail.com](mailto:xaviduds@gmail.com).
 
@@ -77,11 +78,15 @@ O banco de dados está sendo desenvolvido em PostgreSQL.
 
 ## [Backend](#documentação):
 
-A desenvolver.
+A desenvolver. Próximo passo.
 
 ## [Frontend](#documentação):
 
 A desenvolver.
+
+## [Conectividade](#documentação):
+
+A desenvolver. Estuda-se alternativas peer2peer.
 
 ---
 ### [Voltar ao topo](#documentação)
