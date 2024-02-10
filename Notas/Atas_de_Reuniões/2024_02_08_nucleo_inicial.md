@@ -1,6 +1,8 @@
 ### Ordem:
 Começo 17:0...h
+
 Teto: <=19:00h ("acho" -duds.)
+
 Termino: 17:5...h
 ## Debate:
 Como funcionava o .sql (postgresql) e o streamlit_crud.py que duds desenvolveu e o que acreditava que poderia ser usado, falou-se sobre Merkle's-CRDTs, pub-sub, descentralização e casos onde a Lince poderia ser utilizada.
