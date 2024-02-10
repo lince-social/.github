@@ -7,7 +7,7 @@ Como funcionava o .sql (postgresql) e o streamlit_crud.py que duds desenvolveu e
 ## Responsabilidades:
 #### 1. Duds:
 - [X] iniciar uso de obsidian no repositório .github da lince no github.
-- [ ] Fazer rodar novamente com sucesso na máquina dele (sem dockerfile) e documentar os passos para tal.
+- [X] Fazer rodar novamente com sucesso na máquina dele (sem dockerfile) e documentar os passos para tal.
 #### 2. Pessoa Oculta:
 - [ ] Tentar rodar em sua máquina.
 - [ ] Avisar quando poderá reunir novamente
