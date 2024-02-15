@@ -40,11 +40,7 @@ A Lince é uma iniciativa sem fins lucrativos. Utiliza-se de financiamento popul
 
 E-mail para contato: [xaviduds@gmail.com](mailto:xaviduds@gmail.com).
 
-## [Lince Atual](#documentação):
-
-Atualmente, a Lince está em fase de desenvolvimento do seu protótipo, focando no cadastro por digitação, terá listas de necessidades e contribuições. Tal protótipo funcionará a partir da primeira conexão entre uma necessidade de um usuário com uma contribuição de outro.
-
-## [Potencial Impacto](#documentação):
+## [Imaginação](#documentação):
 pessoas podem colocar suas ideias de desenvolvimento (backlog) como CIs e empresas clientes selecionarem quais vão ser desenvolvidas na sprint tal
 A Lince permite a criação de uma tabela para coordenar Necessidades Internas (NIs). Com o aumento do número de pessoas uma rede de apoio é formada através de Contribuições Externas (CEs). Também possibilitando Contribuições Internas (CIs) para atender às Necessidades Externas (NEs).
 
@@ -68,25 +64,3 @@ Ao digitalizar as informações, a Lince possibilita o uso de algoritmos de otim
 
 ![Wireframe](https://github.com/lince-social/.github/blob/main/fotos/Lince%20Wireframe%20website%20desktop%20v0.0.1.png)
 
-# [Documentação Tecnológica](#documentação):
-
-Você pode acessar a base de código no <a href="https://github.com/lince-social/lince">GitHub</a>, sinta-se à vontade para contribuir.
-
-## [Banco de Dados](#documentação):
-
-O banco de dados está sendo desenvolvido em PostgreSQL.
-
-## [Backend](#documentação):
-
-A desenvolver. Próximo passo.
-
-## [Frontend](#documentação):
-
-A desenvolver.
-
-## [Conectividade](#documentação):
-
-A desenvolver. Estuda-se alternativas peer2peer.
-
----
-### [Voltar ao topo](#documentação)
